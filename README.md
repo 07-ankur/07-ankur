@@ -39,6 +39,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=07-ankur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Ankur's Github Stats](https://github-readme-stats.vercel.app/api?username=07-ankur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Ankur's Github Stats](https://github-readme-stats.vercel.app/api?username=07-ankur&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=07-ankur&theme=dark&hide_border=false)
