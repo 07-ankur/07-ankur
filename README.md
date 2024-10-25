@@ -5,11 +5,11 @@
 
 <br/>
 
-- 🌱 I’m currently learning _Data Structures and Algorithms_
+- 🌱 I’m currently learning _Data Structures and Algorithms_ & _Next JS_
 
 - 👯 I’m looking to collaborate on Web Development Projects 
 
-- 💬 Ask me about _ReactJs, NodeJs
+- 💬 Ask me about _ReactJs, NodeJs_
 
 - 📫 How to reach me
     - <a href="https://www.linkedin.com/in/07-ankur-kumar/" target="_blank"> **Linkedin** </a>
@@ -32,6 +32,7 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-813754?style=for-the-badge&logo=Jest&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
